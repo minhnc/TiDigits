@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: Fabric Digits module for Titanium
+author: Minh Nguyen
+license: Specify your license
+copyright: 2016 @Minh Nguyen
+
+# these should not be edited
+name: TiDigits
+moduleid: com.imobicloud.tidigits
+guid: b99c7221-ddde-4d82-8d11-d0110dcc3b94
+platform: iphone
+minsdk: 5.2.1.GA
